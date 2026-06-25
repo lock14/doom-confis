@@ -5,7 +5,7 @@ This repository contains configuration files for playing Doom on various source 
 ## Supported Ports & Launchers
 
 - **[DSDA-Doom](https://github.com/kraflab/dsda-doom)**: A speedrunning-focused source port.
-- **[UZDoom](https://github.com/dpjudas/uzdoom)**: A ZDoom-based engine focused on compatibility and ease of use.
+- **[UZDoom](https://github.com/UZDoom/uzdoom)**: A ZDoom-based engine focused on compatibility and ease of use.
 - **[DoomRunner](https://github.com/Youda008/DoomRunner)**: A graphical launcher for Doom source ports.
 
 ## Setup Instructions
